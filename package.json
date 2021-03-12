@@ -1,0 +1,14 @@
+{
+  "name": "terra-mnemonic-viewer",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "terra-mnemonic-viewer": "./index.js"
+  },
+  "author": "SSen",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
