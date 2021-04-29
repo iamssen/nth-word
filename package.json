@@ -1,14 +1,17 @@
 {
-  "name": "terra-mnemonic-viewer",
-  "version": "1.0.1",
+  "name": "nth-word",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "terra-mnemonic-viewer": "./index.js"
+    "nth-word": "./index.js"
   },
   "author": "SSen",
   "license": "MIT",
   "files": [
     "index.js"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
