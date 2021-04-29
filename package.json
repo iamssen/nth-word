@@ -1,7 +1,10 @@
 {
   "name": "nth-word",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "repository": "github:iamssen/nth-word",
+  "bugs": "https://github.com/iamssen/nth-word/issues",
+  "homepage": "https://github.com/iamssen/nth-word",
   "main": "index.js",
   "bin": {
     "nth-word": "./index.js"
